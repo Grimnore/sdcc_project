@@ -1,0 +1,8 @@
+*.rel
+*.lst
+*.sym
+*.map
+*.mem
+*.ihx
+*.lk
+*.adb
