@@ -1,8 +1,9 @@
-*.rel
-*.lst
-*.sym
-*.map
-*.mem
-*.ihx
-*.lk
+blink.ihx main.ihx
+main.hex
+blink.rel main.rel
+blink.lst main.lst
+blink.sym main.sym
+blink.map main.map
+blink.mem main.mem
+blink.lk main.lk
 *.adb
