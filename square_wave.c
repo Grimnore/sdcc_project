@@ -1,4 +1,7 @@
+// generating a square wave on pin P1.0 using Timer 0 in interrupt mode.
+
 #include <8051.h>
+
 
 void timer0_isr(void) __interrupt(1) {
     TH0 = 0xFE;
